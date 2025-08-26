@@ -1,0 +1,9 @@
+streamlit>=1.20
+pandas
+numpy
+yfinance
+plotly
+aiohttp
+beautifulsoup4
+pandas_ta
+python-dateutil
