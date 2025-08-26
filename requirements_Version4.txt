@@ -1,8 +1,9 @@
-aiohttp
+streamlit>=1.20
 pandas
 numpy
 yfinance
-beautifulsoup4
-ta-lib
-streamlit
 plotly
+aiohttp
+beautifulsoup4
+pandas_ta
+python-dateutil
