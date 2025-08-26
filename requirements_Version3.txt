@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.26
+yfinance>=0.2.0
+pandas_ta>=0.3.14b
+plotly>=5.20
+requests>=2.28
+beautifulsoup4>=4.12
+yahoo_fin>=0.8.9
+python-dateutil>=2.8
