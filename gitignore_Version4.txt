@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+assets/
+dist/
+node_modules/
+tauri.conf.json

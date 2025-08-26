@@ -1,0 +1,8 @@
+aiohttp
+pandas
+numpy
+yfinance
+beautifulsoup4
+ta-lib
+streamlit
+plotly
